@@ -2,7 +2,7 @@
 
 Analytical and numerical analysis of three linear time-invariant (LTI) systems: a discrete-time filter, a DC motor, and a feedback control loop. Every result is first derived by hand (Z-transform, Laplace transform, partial fractions) and then verified in Python with symbolic math, numerical simulation and plots.
 
-This notebook was submitted as the alternative assessment (in place of the final exam) for the **Linear Systems** course at Bar-Ilan University, Faculty of Engineering, and received a grade of **100**.
+Course project for the **Linear Systems** course at Bar-Ilan University, Faculty of Engineering. Grade: **100**.
 
 ## What is inside
 
